@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentActivityKotlin</string>
+
+    <string name="dataToPass">Write your name here</string>
+
+    <string name="openNewAct">Go</string>
+
+    <string name="passDataTag">passDataTag</string>
+
+    <string name="noInputMsg">Please Input the name!!</string>
+
+    <string name="noData">No Data</string>
+</resources>
