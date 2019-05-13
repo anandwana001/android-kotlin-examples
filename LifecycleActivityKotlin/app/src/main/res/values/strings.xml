@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LifecycleActivityKotlin</string>
+
+    <string name="onCreate" translatable="false">onCreate Called</string>
+
+    <string name="onStart" translatable="false">onStart Called</string>
+
+    <string name="onResume" translatable="false">onResume Called</string>
+
+    <string name="onPause" translatable="false">onPause Called</string>
+
+    <string name="onStop" translatable="false">onStop Called</string>
+
+    <string name="onRestart" translatable="false">onRestart Called</string>
+
+    <string name="onDestroy" translatable="false">onDestroy Called</string>
+</resources>
